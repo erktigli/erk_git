@@ -1,4 +1,3 @@
 FROM centos
-RUN edhgo
-
+RUN echo "Sup ?"
 COPY day1 /tmp/
